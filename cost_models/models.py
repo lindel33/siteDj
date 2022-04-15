@@ -93,6 +93,7 @@ class NewPriceModel(models.Model):
         """
         Поиск всех товаров в csv_file которые есть в свежем прайсе
         :param product:
+        hewwwwwww
         :return:
         """
         device = product['device'].lower()
